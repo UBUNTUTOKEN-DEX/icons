@@ -1,4 +1,4 @@
-# SushiSwap Icons
+# Ubuntu Icons
 
 # Adding a token
 
